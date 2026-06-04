@@ -1133,5 +1133,5 @@ with tabs[5]:
 st.divider()
 st.markdown(
     "<center style='color:#9ca3af;font-size:.82rem'>"
-    "✨ Designed & Developed by <b>Ankit</b> · ML Studio · Powered by scikit-learn"
+    "✨ Designed & Developed by <b>Ankit Mishra</b> · ML Studio · Powered by scikit-learn"
     "</center>", unsafe_allow_html=True)
