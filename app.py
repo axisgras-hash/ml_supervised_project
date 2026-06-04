@@ -354,7 +354,7 @@ for _k, _v in {
 # SIDEBAR
 # ══════════════════════════════════════════════
 with st.sidebar:
-    st.markdown("## 🤖 ML Studio")
+    st.markdown("## 🤖 ML Studio  Your AI Powered ML Agent")
     st.markdown("**by Ankit** · Powered by scikit-learn")
     st.divider()
 
