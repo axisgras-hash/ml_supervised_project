@@ -354,7 +354,7 @@ for _k, _v in {
 # SIDEBAR
 # ══════════════════════════════════════════════
 with st.sidebar:
-    st.markdown("## 🤖 ML Studio  Your AI Powered ML Agent")
+    st.markdown("## 🤖 ML Studio")
     st.markdown("**by Ankit** · Powered by scikit-learn")
     st.divider()
 
@@ -414,7 +414,7 @@ with st.sidebar:
 # ══════════════════════════════════════════════
 # GUARD
 # ══════════════════════════════════════════════
-st.markdown('<h1 class="main-title">🤖 ML Studio</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="main-title">🤖 ML Studio: AI Powered ML  Agent</h1>', unsafe_allow_html=True)
 st.markdown("**Explore · Analyze · Preprocess · Train · Predict** — all in one place")
 
 if st.session_state['df'] is None:
